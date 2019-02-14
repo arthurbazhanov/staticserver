@@ -2,136 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de607a23-4d46-405e-9477-f4d485844971" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sampleserver.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/all_meetup.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/all_meetup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/creative.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/rating.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/speakers.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/user_admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerBold.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerExtraBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerExtraBold.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerExtraBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerExtraBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerLight.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerLight.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerLight.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerRegular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerRegular.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerRegular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerRegular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerUltraLight.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerUltraLight.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerUltraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/MullerUltraLight.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/footer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/android-chrome-192x192.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/android-chrome-512x512.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/apple-touch-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/event-8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon-16x16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/glasses.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/horn.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/lidushka.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_footer.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_footer_text.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_header.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_header_text.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/main-dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/main.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/mobile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/mstile-150x150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-6-dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-footer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-glasses.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-horn.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-mobile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/parallax-pen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/pen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/photo-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/photo-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/photo-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/photo-4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/photo-5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/place-picture-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/review-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/review-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/review-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/review-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/safari-pinned-tab.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/speaker-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/staff.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/zhitkevich.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/creative.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/rating.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/user_admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/rating.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/speakers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery-easing/jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/owl-carousel/owl.carousel.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/owl-carousel/owl.carousel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/vendor/scrollreveal/scrollreveal.min.js" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sampleserver.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -158,8 +37,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -363,12 +242,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550137917076</updated>
-      <workItem from="1550137919097" duration="1640000" />
+      <workItem from="1550137919097" duration="1827000" />
     </task>
+    <task id="LOCAL-00001" summary="create static server">
+      <created>1550139645678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550139645678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1640000" />
+    <option name="totallyTimeSpent" value="1827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -398,6 +285,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create static server" />
+    <option name="LAST_COMMIT_MESSAGE" value="create static server" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -497,14 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -521,10 +404,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
